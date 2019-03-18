@@ -66,14 +66,14 @@ for x1 in lines2008:
     if outcome1[n1]=='Made':
         xpos_made1[made1] = x1.split()[3]
         ypos_made1[made1] = x1.split()[1]
-        xpos_made1[made1] = (-1.0)*(xpos_made1[made1]-250.0)
+        xpos_made1[made1] = (-1.0)*(xpos_made1[made1]-240.0)
         ypos_made1[made1] = ypos_made1[made1]-50.0
         made1 = made1 + 1
     #only missed shots
     if outcome1[n1]=='Missed':
         xpos_miss1[miss1]= x1.split()[3]
         ypos_miss1[miss1] = x1.split()[1]
-        xpos_miss1[miss1] = (-1.0)*(xpos_miss1[miss1]-250.0)
+        xpos_miss1[miss1] = (-1.0)*(xpos_miss1[miss1]-240.0)
         ypos_miss1[miss1] = ypos_miss1[miss1]-50.0
         miss1 = miss1 + 1
     #good for keeping trac of outcome loop
@@ -86,14 +86,14 @@ for x2 in lines2013:
     if outcome2[n2]=='Made':
         xpos_made2[made2] = x2.split()[3]
         ypos_made2[made2] = x2.split()[1]
-        xpos_made2[made2] = (-1.0)*(xpos_made2[made2]-250.0)
+        xpos_made2[made2] = (-1.0)*(xpos_made2[made2]-240.0)
         ypos_made2[made2] = ypos_made2[made2]-50.0
         made2 = made2 + 1
     #only missed shots
     if outcome2[n2]=='Missed':
         xpos_miss2[miss2]= x2.split()[3]
         ypos_miss2[miss2] = x2.split()[1]
-        xpos_miss2[miss2] = (-1.0)*(xpos_miss2[miss2]-250.0)
+        xpos_miss2[miss2] = (-1.0)*(xpos_miss2[miss2]-240.0)
         ypos_miss2[miss2] = ypos_miss2[miss2]-50.0
         miss2 = miss2 + 1
     #good for keeping trac of outcome loop
@@ -106,14 +106,14 @@ for x3 in lines2016:
     if outcome3[n3]=='Made':
         xpos_made3[made3] = x3.split()[3]
         ypos_made3[made3] = x3.split()[1]
-        xpos_made3[made3] = (-1.0)*(xpos_made3[made3]-250.0)
+        xpos_made3[made3] = (-1.0)*(xpos_made3[made3]-235.0)
         ypos_made3[made3] = ypos_made3[made3]-50.0
         made3 = made3 + 1
     #only missed shots
     if outcome3[n3]=='Missed':
         xpos_miss3[miss3]= x3.split()[3]
         ypos_miss3[miss3] = x3.split()[1]
-        xpos_miss3[miss3] = (-1.0)*(xpos_miss3[miss3]-250.0)
+        xpos_miss3[miss3] = (-1.0)*(xpos_miss3[miss3]-235.0)
         ypos_miss3[miss3] = ypos_miss3[miss3]-50.0
         miss3 = miss3 + 1
     #good for keeping trac of outcome loop
