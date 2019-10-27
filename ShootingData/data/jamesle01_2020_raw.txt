@@ -1,0 +1,67 @@
+[<div class="table_wrapper setup_commented commented" id="all_shot-chart">
+<div class="section_heading">
+<span class="section_anchor" data-label="Shot Chart" id="shot-chart_link"></span><h2>Shot Chart</h2> <div class="section_heading_text">
+<ul>
+</ul>
+</div>
+</div>
+<div class="placeholder"></div>
+<!--
+   <div class="table_outer_container">
+      <div class="overthrow table_container" id="div_shot-chart">
+  <table class="suppress_all sortable stats_table" id="shot-chart" data-cols-to-freeze=2><caption>Shot Chart Table</caption><div id="shot-wrapper">
+<div class="shot-area">
+<img src="http://d2p3bygnnzw9w3.cloudfront.net/req/1/images/bbr/nbahalfcourt.png" 
+     alt="nbahalfcourt" 
+     >
+<div style="top:76px;left:230px;" tip="Oct 22, 2019, LAL at LAC<br>1st Qtr, 11:47 remaining<br>Made 2-pointer from 3 ft<br>LAL now leads 2-0" class="tooltip make">&#9679;</div>
+<div style="top:93px;left:95px;" tip="Oct 22, 2019, LAL at LAC<br>1st Qtr, 10:05 remaining<br>Made 2-pointer from 15 ft<br>LAL now leads 7-2" class="tooltip make">&#9679;</div>
+<div style="top:303px;left:174px;" tip="Oct 22, 2019, LAL at LAC<br>1st Qtr, 6:58 remaining<br>Missed 3-pointer from 26 ft<br>LAL leads 13-6" class="tooltip miss">&#215;</div>
+<div style="top:162px;left:245px;" tip="Oct 22, 2019, LAL at LAC<br>1st Qtr, 3:51 remaining<br>Missed 2-pointer from 11 ft<br>LAL leads 17-8" class="tooltip miss">&#215;</div>
+<div style="top:243px;left:459px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 10:48 remaining<br>Made 3-pointer from 29 ft<br>LAL now leads 28-27" class="tooltip make">&#9679;</div>
+<div style="top:70px;left:162px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 9:33 remaining<br>Missed 2-pointer from 8 ft<br>LAL leads 31-29" class="tooltip miss">&#215;</div>
+<div style="top:124px;left:224px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 9:02 remaining<br>Made 2-pointer from 7 ft<br>LAL now leads 33-31" class="tooltip make">&#9679;</div>
+<div style="top:70px;left:227px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 8:32 remaining<br>Made 2-pointer from 2 ft<br>LAL now leads 36-34" class="tooltip make">&#9679;</div>
+<div style="top:58px;left:229px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 3:23 remaining<br>Missed 2-pointer from 1 ft<br>LAL trails 44-49" class="tooltip miss">&#215;</div>
+<div style="top:336px;left:51px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 1:33 remaining<br>Missed 3-pointer from 34 ft<br>LAL trails 51-54" class="tooltip miss">&#215;</div>
+<div style="top:78px;left:217px;" tip="Oct 22, 2019, LAL at LAC<br>2nd Qtr, 1:18 remaining<br>Missed 2-pointer from 3 ft<br>LAL trails 51-55" class="tooltip miss">&#215;</div>
+<div style="top:120px;left:239px;" tip="Oct 22, 2019, LAL at LAC<br>3rd Qtr, 8:17 remaining<br>Missed 2-pointer from 7 ft<br>LAL trails 60-72" class="tooltip miss">&#215;</div>
+<div style="top:60px;left:224px;" tip="Oct 22, 2019, LAL at LAC<br>3rd Qtr, 7:19 remaining<br>Missed 2-pointer from 2 ft<br>LAL trails 64-72" class="tooltip miss">&#215;</div>
+<div style="top:73px;left:242px;" tip="Oct 22, 2019, LAL at LAC<br>3rd Qtr, 7:09 remaining<br>Made 2-pointer from 2 ft<br>LAL now trails 66-72" class="tooltip make">&#9679;</div>
+<div style="top:287px;left:114px;" tip="Oct 22, 2019, LAL at LAC<br>3rd Qtr, 5:30 remaining<br>Missed 3-pointer from 27 ft<br>LAL trails 66-77" class="tooltip miss">&#215;</div>
+<div style="top:303px;left:297px;" tip="Oct 22, 2019, LAL at LAC<br>4th Qtr, 11:15 remaining<br>Missed 3-pointer from 26 ft<br>LAL trails 85-87" class="tooltip miss">&#215;</div>
+<div style="top:193px;left:386px;" tip="Oct 22, 2019, LAL at LAC<br>4th Qtr, 10:06 remaining<br>Missed 2-pointer from 20 ft<br>LAL trails 85-89" class="tooltip miss">&#215;</div>
+<div style="top:72px;left:240px;" tip="Oct 22, 2019, LAL at LAC<br>4th Qtr, 8:51 remaining<br>Made 2-pointer from 2 ft<br>LAL now trails 87-92" class="tooltip make">&#9679;</div>
+<div style="top:83px;left:239px;" tip="Oct 22, 2019, LAL at LAC<br>4th Qtr, 7:39 remaining<br>Missed 2-pointer from 3 ft<br>LAL trails 90-94" class="tooltip miss">&#215;</div>
+<div style="top:216px;left:47px;" tip="Oct 25, 2019, LAL vs UTA<br>1st Qtr, 10:07 remaining<br>Made 3-pointer from 25 ft<br>LAL now leads 5-4" class="tooltip make">&#9679;</div>
+<div style="top:195px;left:148px;" tip="Oct 25, 2019, LAL vs UTA<br>1st Qtr, 9:05 remaining<br>Missed 2-pointer from 17 ft<br>LAL trails 5-8" class="tooltip miss">&#215;</div>
+<div style="top:134px;left:214px;" tip="Oct 25, 2019, LAL vs UTA<br>1st Qtr, 8:40 remaining<br>Made 2-pointer from 9 ft<br>LAL now trails 7-8" class="tooltip make">&#9679;</div>
+<div style="top:167px;left:117px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 10:52 remaining<br>Missed 2-pointer from 17 ft<br>LAL leads 27-17" class="tooltip miss">&#215;</div>
+<div style="top:316px;left:141px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 10:23 remaining<br>Missed 3-pointer from 28 ft<br>LAL leads 27-19" class="tooltip miss">&#215;</div>
+<div style="top:74px;left:264px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 9:37 remaining<br>Made 2-pointer from 3 ft<br>LAL now leads 29-19" class="tooltip make">&#9679;</div>
+<div style="top:138px;left:199px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 8:32 remaining<br>Missed 2-pointer from 10 ft<br>LAL leads 29-19" class="tooltip miss">&#215;</div>
+<div style="top:272px;left:365px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 1:19 remaining<br>Missed 3-pointer from 25 ft<br>LAL leads 36-33" class="tooltip miss">&#215;</div>
+<div style="top:59px;left:243px;" tip="Oct 25, 2019, LAL vs UTA<br>2nd Qtr, 0:04 remaining<br>Made 2-pointer from 1 ft<br>LAL now leads 43-35" class="tooltip make">&#9679;</div>
+<div style="top:61px;left:225px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 11:37 remaining<br>Missed 2-pointer from 2 ft<br>LAL leads 43-37" class="tooltip miss">&#215;</div>
+<div style="top:67px;left:246px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 10:45 remaining<br>Missed 2-pointer from 2 ft<br>LAL leads 43-39" class="tooltip miss">&#215;</div>
+<div style="top:76px;left:258px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 9:33 remaining<br>Made 2-pointer from 3 ft<br>LAL now leads 45-43" class="tooltip make">&#9679;</div>
+<div style="top:181px;left:211px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 6:32 remaining<br>Made 2-pointer from 13 ft<br>LAL now leads 56-47" class="tooltip make">&#9679;</div>
+<div style="top:65px;left:253px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 5:06 remaining<br>Made 2-pointer from 2 ft<br>LAL now leads 60-51" class="tooltip make">&#9679;</div>
+<div style="top:63px;left:248px;" tip="Oct 25, 2019, LAL vs UTA<br>3rd Qtr, 0:41 remaining<br>Made 2-pointer from 1 ft<br>LAL now leads 70-55" class="tooltip make">&#9679;</div>
+<div style="top:87px;left:97px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 11:37 remaining<br>Made 2-pointer from 15 ft<br>LAL now leads 76-55" class="tooltip make">&#9679;</div>
+<div style="top:68px;left:255px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 11:03 remaining<br>Made 2-pointer from 2 ft<br>LAL now leads 78-57" class="tooltip make">&#9679;</div>
+<div style="top:150px;left:174px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 10:24 remaining<br>Missed 2-pointer from 12 ft<br>LAL leads 79-60" class="tooltip miss">&#215;</div>
+<div style="top:93px;left:323px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 6:05 remaining<br>Made 2-pointer from 9 ft<br>LAL now leads 85-68" class="tooltip make">&#9679;</div>
+<div style="top:105px;left:175px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 4:53 remaining<br>Missed 2-pointer from 8 ft<br>LAL leads 88-72" class="tooltip miss">&#215;</div>
+<div style="top:50px;left:246px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 4:29 remaining<br>Made 2-pointer from 1 ft<br>LAL now leads 90-72" class="tooltip make">&#9679;</div>
+<div style="top:288px;left:132px;" tip="Oct 25, 2019, LAL vs UTA<br>4th Qtr, 3:52 remaining<br>Missed 3-pointer from 26 ft<br>LAL leads 90-74" class="tooltip miss">&#215;</div>
+
+</div>
+</div>
+<div id='shot-chart'></div>
+</table>
+
+      </div>
+   </div>
+-->
+</div>]
